@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pinky{
+    background-color: #f8a7a7;
+}
+.special{
+    font-size: 24px;
+}
+#bulu{
+    font-size: 36px;
+    color: #2220fe;
+}
+#gren{
+    font-size: 24px;
+    background-color: #82f781;
+    font-weight: bolder;
+}

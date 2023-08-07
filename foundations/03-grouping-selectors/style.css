@@ -1,0 +1,17 @@
+.first,
+.second{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    /*  a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback */
+}
+
+.first{
+    background-color: #080603;
+    color: white;
+    /* The first element: a black background and white text */
+}
+
+.second{
+    /* The second element: a yellow background */
+    background-color: #fdfc00;
+}
